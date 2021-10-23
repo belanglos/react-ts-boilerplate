@@ -1,7 +1,8 @@
 import React from 'react';
+import OrganisationSearch from './OrganisationSearch'
 
 function App() {
-    return <h1>Hello world2!</h1>;
+    return <OrganisationSearch/>;
 }
 
 export default App;
