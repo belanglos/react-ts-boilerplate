@@ -1,5 +1,5 @@
-function getOrganisation() {
-    return 'SomeOtherOrg';
+function getSomething() {
+    return 'Hello World!';
 }
 
-export default { getOrganisation };
+export default getSomething;
